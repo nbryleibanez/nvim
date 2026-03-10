@@ -4,6 +4,6 @@
 
 local opt = vim.opt
 
-opt.tabstop = 4 -- Number of visual spaces per tab
-opt.shiftwidth = 4 -- Number of spaces per indent
+opt.tabstop = 2 -- Number of visual spaces per tab
+opt.shiftwidth = 2 -- Number of spaces per indent
 opt.expandtab = true -- Use spaces instead of tabs
